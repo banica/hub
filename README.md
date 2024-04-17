@@ -2,7 +2,7 @@
 
 Sezon 2024
 
-24 de editii, transmisii live concomitent in cca 8 licee din reteaua SCIENCE HUB.
+# 24 de editii, transmisii live concomitent in cca 8 licee din reteaua SCIENCE HUB.
 
 Sezon 2 Editia 01 - Cosmonaut Dumitru Prunariu
 

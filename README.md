@@ -1,2 +1,2 @@
-# hub
+# SCIENCE HUB
 2024 SCIENCE HUB
